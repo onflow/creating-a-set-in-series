@@ -22,4 +22,7 @@ export const creatingASetInSeries = {
   smartContractExplanation: smartContractExplanationPath,
   transactionCode: transactionPath,
   transactionExplanation: transactionExplanationPath,
+  filters: {
+    difficulty: "intermediate"
+  }
 };
